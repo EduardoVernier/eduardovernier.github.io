@@ -3,17 +3,17 @@
 
 ##### 7. Quantitative Evaluation of Time-Dependent Multidimensional Projection Techniques
 E.F. Vernier, J.L.D. Comba, A.C. Telea.
-_Proc. EuroVis - Computer Graphics Forum - 2020_
+_Proc. EuroVis, Norrköping, Sweden - Computer Graphics Forum - 2020_
 [paper][6.0] &nbsp; [resources][6.1]
 
 ##### 6. Quantitative Comparison of Time-Dependent Treemaps
 E.F. Vernier, M. Sondag, J.L.D. Comba, B. Speckmann, A.C. Telea, and K. Verbeek.
-_Proc. EuroVis - Computer Graphics Forum - 2020_
+_Proc. EuroVis, Norrköping, Sweden - Computer Graphics Forum - 2020_
 [paper][6.0] &nbsp; [resources][6.1]
 
 ##### 5. Selecting and Sharing Multidimensional Projection Algorithms: A Practical View
-M. Espadoto. E.F. Vernier, A.C. Telea.
-_Proc. VisGap - Eurographics - 2020_
+M. Espadoto, E.F. Vernier, A.C. Telea.
+_Proc. VisGap, Norrköping, Sweden - Eurographics - 2020_
 [paper][5.0]
 
 ##### 4. A Stable Greedy Insertion Treemap Algorithm for Software Evolution Visualization

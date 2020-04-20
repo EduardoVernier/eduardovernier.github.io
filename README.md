@@ -1,18 +1,23 @@
 [//]: # (Use dillinger.io to edit and convert to styled HTML -> index.html)
 # Publications
 
-##### 6. Quantitative Evaluation of Time-Dependent Multidimensional Projection Techniques
-E.F. Vernier, J.L.D. Comba, A.C. Telea. 
+##### 7. Quantitative Evaluation of Time-Dependent Multidimensional Projection Techniques
+E.F. Vernier, J.L.D. Comba, A.C. Telea.
 _Proc. EuroVis - Computer Graphics Forum - 2020_
 [paper][6.0] &nbsp; [resources][6.1]
 
-##### 5. Quantitative Comparison of Time-Dependent Treemaps
-E.F. Vernier, M. Sondag, J.L.D. Comba, B. Speckmann, A.C. Telea, and K. Verbeek. 
+##### 6. Quantitative Comparison of Time-Dependent Treemaps
+E.F. Vernier, M. Sondag, J.L.D. Comba, B. Speckmann, A.C. Telea, and K. Verbeek.
 _Proc. EuroVis - Computer Graphics Forum - 2020_
-[paper][5.0] &nbsp; [resources][5.1]
+[paper][6.0] &nbsp; [resources][6.1]
+
+##### 5. Selecting and Sharing Multidimensional Projection Algorithms: A Practical View
+M. Espadoto. E.F. Vernier, A.C. Telea.
+_Proc. VisGap - Eurographics - 2020_
+[paper][5.0]
 
 ##### 4. A Stable Greedy Insertion Treemap Algorithm for Software Evolution Visualization
-E.F. Vernier, J.L.D. Comba,  A.C. Telea. 
+E.F. Vernier, J.L.D. Comba,  A.C. Telea.
 _Proc. SIBGRAPI, Foz do Iguaçu, Brazil - 2018_
 [paper][4.0] &nbsp; [resources][4.1] &nbsp; [slides][4.2]
 
@@ -27,7 +32,7 @@ _Proc. EuroVis, Barcelona, Spain - 2017_ - **Best poster award**
 [paper][2.0] &nbsp; [poster][2.1] &nbsp; [video][2.2] &nbsp; [github][2.3]
 
 ##### 1. Metric Evolution Maps: Multidimensional Attribute-driven Exploration of Software Repositories
-R.R.O. da Silva, E.F. Vernier, P.R. Rauber, J.L.D Comba, R. Minghim, A.C. Telea. 
+R.R.O. da Silva, E.F. Vernier, P.R. Rauber, J.L.D Comba, R. Minghim, A.C. Telea.
 _Proc. Vision, Modeling and Visualization (VMV), Bayreuth, Germany - 2016_
 [paper][1.0]
 
@@ -53,7 +58,8 @@ Federal University of Rio Grande do Sul and University of Groningen
 [4.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/SIBGRAPI18.pdf
 [4.1]: https://github.com/sibgrapi18/treemaps
 [4.2]: https://drive.google.com/open?id=1UUtjI3L3cUzxp7Qn5OOZc6IdB1zqTE_CyQM5T6jGmcw
-[5.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/EUROVIS20-treemaps.pdf
-[5.1]: https://eduardovernier.github.io/dynamic-treemap-resources-eurovis/
-[6.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/EUROVIS20-projections.pdf
-[6.1]: https://eduardovernier.github.io/dynamic-projections
+[5.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/VISGAP20-projections.pdf
+[6.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/EUROVIS20-treemaps.pdf
+[6.1]: https://eduardovernier.github.io/dynamic-treemap-resources-eurovis/
+[7.0]: https://github.com/EduardoVernier/eduardovernier.github.io/blob/master/pdf/EUROVIS20-projections.pdf
+[7.1]: https://eduardovernier.github.io/dynamic-projections

@@ -4,7 +4,7 @@
 ##### 7. Quantitative Evaluation of Time-Dependent Multidimensional Projection Techniques
 E.F. Vernier, J.L.D. Comba, A.C. Telea.
 _Proc. EuroVis, Norrköping, Sweden - Computer Graphics Forum - 2020_
-[paper][6.0] &nbsp; [resources][6.1]
+[paper][7.0] &nbsp; [resources][7.1]
 
 ##### 6. Quantitative Comparison of Time-Dependent Treemaps
 E.F. Vernier, M. Sondag, J.L.D. Comba, B. Speckmann, A.C. Telea, and K. Verbeek.

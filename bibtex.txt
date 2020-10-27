@@ -1,0 +1,89 @@
+# 1
+@inproceedings{DaSilva2016,
+author = {{Da Silva}, R.R.O. and Vernier, E.F. and Rauber, P.E. and Comba, J.L.D. and Minghim, R. and Telea, A.C.},
+booktitle = {VMV 2016 - Vision, Modeling and Visualization},
+doi = {10.2312/vmv.20161343},
+isbn = {9783038680253},
+pages = {61--68},
+publisher = {Eurographics},
+title = {{Metric Evolution Maps: Multidimensional attribute-driven exploration of software repositories}},
+year = {2016}
+}
+
+# 2
+@inproceedings{Vernier2017,
+author = {Vernier, E.F. and Telea, A.C. and Comba, J.L.D.},
+booktitle = {Eurographics Conference on Visualization (EuroVis)},
+doi = {10.2312/eurp.20171180},
+isbn = {978-3-03868-044-4},
+pages = {1--3},
+publisher = {Eurographics Association},
+title = {Quantitative Comparison of Treemap Techniques for Time-Dependent Hierarchies},
+url = {http://www.cs.rug.nl/{~}alext/PAPERS/EuroVis17/poster1.pdf},
+year = {2017}
+}
+
+# 3
+@article{Vernier2018a,
+author = {Vernier, E.F. and Telea, A.C. and Comba, J.L.D.},
+doi = {10.1109/VISSOFT.2018.00018},
+isbn = {9781538682920},
+journal = {Proceedings - 6th IEEE Working Conference on Software Visualization, VISSOFT 2018},
+pages = {96--106},
+title = {Quantitative Comparison of Dynamic Treemaps for Software Evolution Visualization},
+year = {2018}
+}
+
+# 4
+@article{Vernier2018b,
+author = {Vernier, E.F. and Comba, J.L.D. and Telea, A.C.},
+doi = {10.1109/SIBGRAPI.2018.00027},
+isbn = {9781538692646},
+journal = {Proceedings - 31st Conference on Graphics, Patterns and Images, SIBGRAPI 2018},
+pages = {158--165},
+publisher = {IEEE},
+title = {A Stable Greedy Insertion Treemap Algorithm for Software Evolution Visualization},
+url = {https://ieeexplore.ieee.org/document/8614324/},
+year = {2018}
+}
+
+# 5
+@inproceedings{Espadoto2020,
+booktitle = {VisGap - The Gap between Visualization Research and Visualization Software},
+title = {{Selecting and Sharing Multidimensional Projection Algorithms: A Practical View}},
+author = {Espadoto, M. and Vernier, E.F. and Telea, A.C.},
+year = {2020},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-125-0},
+DOI = {10.2312/visgap.20201105}
+}
+
+# 6
+@article{Vernier2020a,
+author = {Vernier, E.F. and Sondag, M. and Comba, J.L.D and Speckmann, B. and Telea, A.C. and Verbeek, K.},
+doi = {10.1111/cgf.13989},
+eprint = {1906.06014},
+issn = {14678659},
+journal = {Computer Graphics Forum},
+mendeley-groups = {treemaps},
+number = {3},
+pages = {393--404},
+title = {Quantitative Comparison of Time-Dependent Treemaps},
+url = {http://arxiv.org/abs/1906.06014},
+volume = {39},
+year = {2020}
+}
+
+# 7
+@article{Vernier2020b,
+author = {Vernier, E.F. and Garcia, R. and {Da Silva}, I.P. and Comba, J.L.D. and Telea, A.C.},
+doi = {10.1111/cgf.13977},
+eprint = {2002.07481},
+issn = {14678659},
+journal = {Computer Graphics Forum},
+number = {3},
+pages = {241--252},
+title = {Quantitative Evaluation of Time-Dependent Multidimensional Projection Techniques},
+volume = {39},
+year = {2020}
+}

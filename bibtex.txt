@@ -87,3 +87,15 @@ title = {Quantitative Evaluation of Time-Dependent Multidimensional Projection T
 volume = {39},
 year = {2020}
 }
+
+# 8
+@article{Vernier2021,
+journal   = {Computer Graphics Forum},
+title     = {Guided Stable Dynamic Projections},
+author    = {Vernier, Eduardo Faccin and Comba, João L. D. and Telea, Alexandru C.},
+year      = {2021},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+issn      = {1467-8659},
+doi       = {10.1111/cgf.14291}
+}
+

@@ -213,7 +213,7 @@ ul > li {
 }
 
 ul.to-do-list {
-	text-indent: -1.7em;
+	padding-inline-start: 0;
 }
 
 ul.to-do-list > li {
@@ -281,6 +281,10 @@ ol > li {
 .collection-title {
 	display: inline-block;
 	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
 }
 
 .simple-table {
@@ -637,16 +641,19 @@ blockquote {
 .block-color-red_background {
 	background: rgba(253, 235, 236, 1);
 }
+.select-value-color-interactiveBlue { background-color: rgba(35, 131, 226, .07); }
 .select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
 .select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
 .select-value-color-green { background-color: rgba(219, 237, 219, 1); }
 .select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
-.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-translucentGray { background-color: rgba(255, 255, 255, 0.0375); }
 .select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
 .select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
 .select-value-color-red { background-color: rgba(255, 226, 221, 1); }
 .select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
 .select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
 
 .checkbox {
 	display: inline-flex;
@@ -666,7 +673,7 @@ blockquote {
 	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
 }
 	
-</style></head><body><article id="6fc9a2f1-504b-481d-86a3-e451720231dd" class="page sans"><header><h1 class="page-title">Eduardo Vernier</h1></header><div class="page-body"><p id="6b961b8b-baa0-4154-a6dd-3bdbb1c4fa87" class="">I hold a joint PhD degree from the universities of Groningen and Rio Grande do Sul for my research on visualization methods for hierarchical and high-dimensional data. I focused on dynamic treemaps and dynamic projection techniques, creating comprehensive evaluations, developing state-of-the-art methods, and applying these in the context of hyperkinetic movement disorders. I was advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=VspO6ZUAAAAJ">Prof. Alexandru Telea</a> and  <a href="https://scholar.google.com/citations?user=jyeX-1sAAAAJ&amp;hl=en&amp;oi=ao">Prof. João Comba</a>.</p><p id="6fea0666-b8f5-4898-9ab8-6be4f798a61c" class="">Since 2021, I have been working as a data scientist at <a href="https://www.notion.so/ASML-afba2ccd9f4f459b9969266bd8abebfe">ML Programs</a> in Amsterdam, creating ML models and useful tools for the auto insurance market.</p><figure id="dc25ac92-1fdb-4efb-9bfb-7bb6867a7690" class="link-to-page"><a href="Curriculum%20vitae%20dc25ac921fdb4efb9bfb7bb6867a7690.html">Curriculum vitae</a></figure><figure id="53529826-c143-48fa-8098-c55b92a69fed" class="link-to-page"><a href="Side%20projects%2053529826c14348fa8098c55b92a69fed.html">Side projects</a></figure><div id="6ea70ccc-f8c9-4190-8e9e-efdec15c0509" class="column-list"><div id="8266865d-f575-4470-938d-3e78a8af2e4b" style="width:31.25%" class="column"><h2 id="f5e038f3-8eb2-4321-a9d0-fe1fbc5a7774" class="">PhD Thesis</h2><p id="70d3becd-a766-42cb-a8ab-e4b58abe3644" class=""><mark class="highlight-teal"><a href="https://github.com/EduardoVernier/phd-thesis-eduardo/blob/main/thesis%20(submitted).pdf">download</a></mark></p><figure id="454482b4-cdb2-47ac-a7ba-49c184139377" class="image" style="text-align:center"><a href="Untitled.png"><img style="width:240px" src="Untitled.png"/></a></figure></div><div id="e83085c2-5ffb-49e2-80c0-aeac996ca1a1" style="width:68.75%" class="column"><p id="3bcc9b3a-66d0-481f-beca-2503bdf93da6" class="">
+</style></head><body><article id="6fc9a2f1-504b-481d-86a3-e451720231dd" class="page sans"><header><h1 class="page-title">Eduardo Vernier</h1><p class="page-description"></p></header><div class="page-body"><p id="6b961b8b-baa0-4154-a6dd-3bdbb1c4fa87" class="">I hold a joint PhD degree from the universities of Groningen and Rio Grande do Sul for my research on visualization methods for hierarchical and high-dimensional data. I focused on dynamic treemaps and dynamic projection techniques, creating comprehensive evaluations, developing state-of-the-art methods, and applying these in the context of hyperkinetic movement disorders. I was advised by <a href="https://scholar.google.com/citations?hl=en&amp;user=VspO6ZUAAAAJ">Prof. Alexandru Telea</a> and  <a href="https://scholar.google.com/citations?user=jyeX-1sAAAAJ&amp;hl=en&amp;oi=ao">Prof. João Comba</a>.</p><p id="6fea0666-b8f5-4898-9ab8-6be4f798a61c" class="">Since 2021, I have been working as a data scientist at  MLPrograms (part of OpenGI) in Amsterdam, creating ML models and analytics tools for the auto insurance market.</p><figure id="dc25ac92-1fdb-4efb-9bfb-7bb6867a7690" class="link-to-page"><a href="Curriculum%20vitae%20dc25ac921fdb4efb9bfb7bb6867a7690.html">Curriculum vitae</a></figure><figure id="53529826-c143-48fa-8098-c55b92a69fed" class="link-to-page"><a href="Side%20projects%2053529826c14348fa8098c55b92a69fed.html">Side projects</a></figure><div id="6ea70ccc-f8c9-4190-8e9e-efdec15c0509" class="column-list"><div id="8266865d-f575-4470-938d-3e78a8af2e4b" style="width:31.25%" class="column"><h2 id="f5e038f3-8eb2-4321-a9d0-fe1fbc5a7774" class="">PhD Thesis</h2><p id="70d3becd-a766-42cb-a8ab-e4b58abe3644" class=""><mark class="highlight-teal"><a href="https://github.com/EduardoVernier/phd-thesis-eduardo/blob/main/thesis%20(submitted).pdf">download</a></mark></p><figure id="454482b4-cdb2-47ac-a7ba-49c184139377" class="image" style="text-align:center"><a href="Untitled.png"><img style="width:240px" src="Untitled.png"/></a></figure></div><div id="e83085c2-5ffb-49e2-80c0-aeac996ca1a1" style="width:68.75%" class="column"><p id="3bcc9b3a-66d0-481f-beca-2503bdf93da6" class="">
 </p></div></div><h2 id="feaa0722-08d2-4e57-9c73-0693c4697a46" class="">Peer-reviewed articles</h2><div id="0a08a163-839a-4272-83a6-d2092f75d6a7" class="column-list"><div id="3a200062-22c2-4eaa-888d-1aca0d4c5061" style="width:25%" class="column"><figure id="9188b599-baa0-42b0-a03f-821b02d1f66f" class="image"><a href="Untitled%201.png"><img style="width:979px" src="Untitled%201.png"/></a></figure></div><div id="7d610a1b-595d-4358-b50d-c0dd5257f095" style="width:75%" class="column"><h3 id="c998b693-8cdd-4bc8-8c5e-9a3511da4e30" class="">8<strong>. Guided Stable Dynamic Projections</strong></h3><p id="9dfce699-b7da-4cf9-9810-162ee2352b4e" class="">E.F. Vernier, J.L.D. Comba, A.C. Telea
 <mark class="highlight-gray"><em>Proc. EuroVis, Zurich, Switzerland (Online)
 Computer Graphics Forum - 2021</em></mark><em>
